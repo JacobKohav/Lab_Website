@@ -1,0 +1,1 @@
+Jacob KohavLink to Lab 4 GIT Repository: https://github.com/JacobKohav/Lab_WebsiteHome Page Bootstrap: Dynamic Resizing (Page Changes with Browser Size)Extra Credit: Complete
